@@ -10,6 +10,7 @@ public class snackJar {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		snackJar sj = new snackJar();
+		System.out.println("hello world");
 		
 	}
 
